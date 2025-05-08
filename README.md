@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎲 Lógica de Programação<br>📚 Análise de Requisitos<br>🧮 Banco de Dados mySQL<br>📌 Programação Orientada a Objetos <br>✒ FIGMA </p>
+<p align="left">🎲 Lógica de Programação<br>📚 Análise de Requisitos<br>🧮 Banco de Dados <br>📌 Programação Orientada a Objetos <br>✒ FIGMA <br>🔧 Engenharia de Software </p>
 
 ###
 
