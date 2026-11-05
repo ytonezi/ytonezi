@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer, Yasmim! Tenho 20 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC!</p>
+<p align="left">Formada em análise e desenvolvimento de sistemas</p>
 
 ###
 
